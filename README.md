@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Hz46100
-- 👀 I’m interested in sleep especially is have a good rest.
-- 🌱 currently learning Java, MySQL and node.js，Android.
-- 💞️ I’m looking to collaborate on ...
-- 📫 My email ssqytwl@gmail.com
+<img src="https://readme-typing-svg.herokuapp.com/?lines=你好，欢迎来到我的主页！;全栈开发工程师;热爱开源与技术探索&center=true&width=500&height=50">
