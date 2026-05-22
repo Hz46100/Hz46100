@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+welcome+to+my+profile!;A+Passionate+Full-Stack+Developer;Turning+Ideas+into+Real+Code&center=true&width=500&height=50">
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/{Hz46100}/count.svg" alt="Visitor Count" />
-</div>
 
 <div align="center">
   <a href="mailto:ssqytwl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -32,10 +29,3 @@
 
 ---
 
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username={Hz46100}&show_icons=true&theme=radium" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Hz46100}&layout=compact&theme=radium" width="48%" />
-</div>
